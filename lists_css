@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <title>LISTS OF CSS</title>
+</head>
+<center>Demo on css lists</center>
+<style>
+    u1 {
+        list-style-type: none;
+        padding: 0px;
+    }
+
+    ol {
+        background-color: cadetblue;
+        color: darkgreen;
+    }
+
+    ul {
+        background-color: deepskyblue;
+        color: firebrick;
+    }
+
+    ol li {
+        background-color: rgb(195, 163, 226);
+        margin: 10px;
+    }
+
+    ol li {
+        background-color: rgb(133, 141, 27);
+        margin: 10px;
+    }
+    ul li {
+        background-color: blue;
+    }
+</style>
+<body>
+    <ol>THE  SUBJECTS:
+        <li>OS</li>
+        <li>DBMS</li>
+        <li>DM</li>
+        <li>DSP</li>
+        <li>ENG</li>
+    </ol>
+    <ul>THE LABS:
+        <li>DBMS LAB</li>
+        <li>DSP LAB</li>
+        <li>WAD LAB</li>
+        <li>SE_WITH_UMLLAB</li>
+    </ul>
+</body>
+
+</html>
