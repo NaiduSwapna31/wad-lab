@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>log in</title>
+
+</head>
+
+<body>
+
+           <center>
+
+                      <form>
+
+                                 <table align="center">
+
+                                            <th><h4>Log in</h4></th>
+
+                                            <tr>
+
+                                                       <td align="center"><input type="username"  placeholder="Username" name="username"></td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                                       <td><input type="Password" placeholder="Password" name="Password"></td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                                       <td><input type="submit" name="Log in" value="Log in"></td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                                       <td><input type="checkbox" name="chkbx" value="checkbox">Remember me</td>
+
+                                                       <td><a href="C:\Program Files\Sublime Text 3\forgetform.html">forget password?</a></td>
+
+                                            </tr>
+
+                                            <tr>
+
+                                                                  <td align="center"><a href="C:\Program Files\Sublime Text 3\form.html">Create account</a></td>  
+
+                                            </tr>
+
+                                 </table>
+
+                      </form>
+
+           </center>
+
+</body>
+
+</html>
