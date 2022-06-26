@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Links</title>
+  </head>
+  <body>
+  <h2>Hyperlinks</h2>
+  <h3>Hyper links are used to jump to another document</h3>
+    <a href="https://www.svecw.edu.in/">Welcome to SVECW</a>
+    <br>
+    <br>
+  <p>If you want check my resume <a href="file:///C:/Users/swapn/resume.html">click here</a></p>
+  <h2>The target attribute specifies where to open the linked document</h2>
+  <h3>if target is equal to _self opens in the same tab</h3>
+  <a href="https://www.svecw.edu.in/">opens in same tab</a>
+  <br>
+  <h2>If target is equal to _blank opens in new window</h2>
+  <a href="https://www.svecw.edu.in/">opens in new tab</a>
+  <br>
+  <h2>This is an relative path</h2>
+  <a href="basictagscss.html">Basic Tags</a>
+  </body>
+
+</html>
